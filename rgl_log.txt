@@ -1,0 +1,143 @@
+Starting new log file.
+ Version:  1.132 
+ 
+-- OS: Microsoft  (build 9200), 64-bit
+-- RAM: Available physical RAM: 3142MB/4096MB
+-- CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz (GenuineIntel)
+ - L2 cache size: 256K
+ - CPU Features: FPU MMX SSE SSE2 SSE3 SSSE3 EST HTT 
+ - Number of CPUs: 8 ( Speed: ~1800MHz / ~1800MHz / ~1800MHz / ~1800MHz / ~1800MHz / ~1800MHz / ~1800MHz / ~1800MHz )
+
+-- GPU:
+ - D3D9 Adapter: 0 / Driver: igdumdim32.dll / Description: Intel(R) UHD Graphics 620
+ - Texture Memory: 4095 ( Available Texture Memory: 4084 )
+
+ 
+ Processing Ini File {
+ Unrecognized Module_info directive =  network_compatible . Skipping.
+ Unrecognized Module_info directive =  hide_other_mod_servers . Skipping.
+ Unrecognized Module_info directive =  ground_weapon_collision . Skipping.
+ Unrecognized Module_info directive =  use_missile_damage_type . Skipping.
+ Unrecognized Module_info directive =  allow_unset_script_params . Skipping.
+ Unrecognized Module_info directive =  module_download_url . Skipping.
+ Unrecognized Module_info directive =  fix_bots_blocking_for_dedicated_server . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_horse . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_horse . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_one_handed . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_one_handed . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_two_handed . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_two_handed . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_polearm . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_polearm . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_arrows . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_arrows . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_bolts . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_bolts . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_shield . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_shield . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_bow . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_bow . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_crossbow . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_crossbow . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_thrown . Skipping.
+ Unrecognized Module_info directive =  difficulty_skill_itp_type_thrown . Skipping.
+ Unrecognized Module_info directive =  difficulty_attribute_itp_type_goods . Skipping.
+ 
+Frame# : 18 
+Saving options...  OK!
+ Exiting network manager...  OK!
+ Deleting resources...  OK!
+ Exiting physics manager...  OK!
+ 
+ num rt_material : <c: r  0 > / <c: y 0 >
+ 
+ Render Target Format Usages:
+ 
+Dumping resource usage information: 
+ #Full textures:  0 
+ #RT textures:  0 
+ #RT materials:  0 
+ #RT Memory usage:  0 
+ Exiting graphics manager...  OK!
+ 
+Current Config { 
+	first_time : 0 
+	texture_detail : 70 
+	render_buffer_size : 15 
+	max_framerate : 250 
+	start_windowed : 0 
+	use_pixel_shaders : 1 
+	use_vertex_shaders : 1 
+	fake_reflections : 1 
+	show_framerate : 0 
+	use_ondemand_textures : 1 
+	use_ondemand_textures_mt : 1 
+	disable_music : 0 
+	disable_sound : 0 
+	disable_frequency_variation : 0 
+	cheat_mode : 0 
+	enable_blood : 1 
+	enable_edit_mode : 0 
+	force_single_threading : 0 
+	debug_mode : 0 
+	display_width : 1366 
+	display_height : 768 
+	display_bits : 32 
+	antialiasing : 0 
+	sample_quality : 0 
+	alpha2coverage : 0 
+	force_vsync : 0 
+	shadowmap_quality : 1 
+	shader_quality : 1 
+	postfx_dof : 0 
+	postfx_hdr : 1 
+	postfx_autoexp : 0 
+	flora_degrade_distance : 100.000000 
+	flora_lod_detail : 1 
+	use_instancing : 0 
+	use_secure_connection : 0 
+	max_number_of_connections : 16 
+	look_for_server_on_this_machine : 0 
+	music_volume : 0.400000 
+	sound_volume : 1.000000 
+	mouse_sensitivity : 0.500000 
+	invert_mouse : 0 
+	enable_lighting : 1 
+	enable_particles : 1 
+	enable_blood : 1 
+	enable_character_shadows : 1 
+	enable_accurate_shadows : 1 
+	number_of_corpses : 3 
+	grass_density : 50 
+	combat_speed : 2 
+	friend_combat_difficulty : 0 
+	adapter_format : 0 
+	reduce_combat_ai : 2 
+	reduce_campaign_ai : 2 
+	combat_difficulty : 0 
+	display_labels : 1 
+	display_targeting_reticule : 1 
+	display_attack_direction : 0 
+	turn_camera_with_horse_in_first_person : 2 
+	verbose_damage : 1 
+	verbose_shot_difficulty : 1 
+	battle_size : 0.342200 
+	attack_direction_control : 2 
+	defend_direction_control : 0 
+	lance_control : 0 
+	anisotropic_filtering : 1 
+	enable_environment_shadows : 1 
+	verbose_casualties : 1 
+	verbose_experience : 1 
+	realistic_shadows_on_plants : 0 
+	number_of_ragdolls : 3 
+	gamma : 2.200000 
+	character_detail : 0.000000 
+	character_shadow_detail : 0.000000 
+	control_mouse_movement_y_scale : 1.500000 
+	blood_stains : 1 
+	use_winmm_audio : 0 
+	auto_gfx_quality : 2 
+}
+ 
+Closing log file...  
